@@ -1,3 +1,4 @@
 parse.py
 .idea/
 /venv/*
+__pycache__
